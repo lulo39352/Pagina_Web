@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: rgba(236, 12, 218, 0.822);
+}
+
+h2 {
+    color: black;
+}
+
+.contenedor {
+    background-color: rgb(193, 0, 211);
+    border: solid;
+    padding-top: 20px;
+    margin: 30px;   
+    text-align: center;
+}
+
+h2 {
+    text-align: start;
+}
+
+p {
+    font-size: 30px;
+}
+
+#drift{
+    width: 400px;
+    height: 800px;
+}
